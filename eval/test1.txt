@@ -1,0 +1,199 @@
+
+GROUND TRUTH FOR: 0026_test
+label: 312.0 || 382.0 || 543.0 || 492.0 || 0
+
+GROUND TRUTH FOR: 0258_test
+label: 132.0 || 203.0 || 180.0 || 395.0 || 1
+
+GROUND TRUTH FOR: 0128_test
+label: 325.0 || 199.0 || 445.0 || 288.0 || 2
+
+GROUND TRUTH FOR: 0126_test
+label: 442.0 || 218.0 || 604.0 || 360.0 || 2
+
+GROUND TRUTH FOR: 0006_test
+label: 440.0 || 168.0 || 613.0 || 307.0 || 0
+
+GROUND TRUTH FOR: 0293_test
+label: 126.0 || 528.0 || 179.0 || 644.0 || 1
+label: 618.0 || 398.0 || 678.0 || 517.0 || 1
+
+GROUND TRUTH FOR: 0110_test
+label: 285.0 || 50.0 || 511.0 || 136.0 || 2
+
+GROUND TRUTH FOR: 0020_test
+label: 513.0 || 124.0 || 653.0 || 207.0 || 0
+
+GROUND TRUTH FOR: 0057_test
+label: 613.0 || 151.0 || 655.0 || 275.0 || 1
+label: 548.0 || 389.0 || 599.0 || 470.0 || 0
+
+GROUND TRUTH FOR: 0133_test
+label: 397.0 || 451.0 || 569.0 || 565.0 || 2
+
+GROUND TRUTH FOR: 0048_test
+label: 449.0 || 343.0 || 568.0 || 399.0 || 0
+
+GROUND TRUTH FOR: 0053_test
+label: 399.0 || 260.0 || 460.0 || 307.0 || 0
+
+GROUND TRUTH FOR: 0085_test
+label: 426.0 || 195.0 || 574.0 || 261.0 || 0
+
+GROUND TRUTH FOR: 0038_test
+label: 168.0 || 137.0 || 627.0 || 358.0 || 0
+label: 455.0 || 408.0 || 573.0 || 489.0 || 2
+PREDICTIONS: 
+1 label: dirty score: tensor(0.6118) 175.88164 || 142.86058 || 217.3405 || 185.36673
+
+GROUND TRUTH FOR: 0261_test
+label: 161.0 || 404.0 || 188.0 || 574.0 || 1
+
+GROUND TRUTH FOR: 0181_test
+label: 251.0 || 456.0 || 333.0 || 559.0 || 2
+
+GROUND TRUTH FOR: 0030_test
+label: 161.0 || 44.0 || 661.0 || 197.0 || 0
+
+GROUND TRUTH FOR: 0398_test
+label: 483.0 || 94.0 || 649.0 || 186.0 || 3
+
+GROUND TRUTH FOR: 0281_test
+label: 176.0 || 312.0 || 238.0 || 424.0 || 1
+label: 562.0 || 407.0 || 625.0 || 509.0 || 1
+
+GROUND TRUTH FOR: 0159_test
+label: 282.0 || 480.0 || 346.0 || 537.0 || 2
+PREDICTIONS: 
+1 label: dirty score: tensor(0.6266) 105.681404 || 179.65933 || 134.17262 || 202.53087
+
+GROUND TRUTH FOR: 0118_test
+label: 542.0 || 425.0 || 612.0 || 487.0 || 2
+
+GROUND TRUTH FOR: 0179_test
+label: 517.0 || 544.0 || 604.0 || 610.0 || 2
+
+GROUND TRUTH FOR: 0399_test
+label: 509.0 || 112.0 || 589.0 || 165.0 || 3
+
+GROUND TRUTH FOR: 0340_test
+label: 408.0 || 181.0 || 516.0 || 235.0 || 3
+
+GROUND TRUTH FOR: 0256_test
+label: 119.0 || 523.0 || 162.0 || 608.0 || 1
+label: 610.0 || 618.0 || 687.0 || 699.0 || 1
+
+GROUND TRUTH FOR: 0086_test
+label: 479.0 || 701.0 || 615.0 || 749.0 || 0
+
+GROUND TRUTH FOR: 0137_test
+label: 282.0 || 456.0 || 381.0 || 557.0 || 2
+
+GROUND TRUTH FOR: 0286_test
+label: 590.0 || 561.0 || 676.0 || 656.0 || 1
+label: 122.0 || 410.0 || 190.0 || 523.0 || 1
+
+GROUND TRUTH FOR: 0069_test
+label: 494.0 || 468.0 || 620.0 || 527.0 || 0
+
+GROUND TRUTH FOR: 0143_test
+label: 460.0 || 541.0 || 556.0 || 615.0 || 2
+
+GROUND TRUTH FOR: 0230_test
+label: 596.0 || 316.0 || 665.0 || 453.0 || 1
+
+GROUND TRUTH FOR: 0331_test
+label: 361.0 || 681.0 || 551.0 || 744.0 || 3
+
+GROUND TRUTH FOR: 0142_test
+label: 283.0 || 403.0 || 370.0 || 468.0 || 2
+PREDICTIONS: 
+1 label: dirty score: tensor(0.6812) 106.73592 || 149.88118 || 134.87286 || 179.41301
+
+GROUND TRUTH FOR: 0218_test
+label: 618.0 || 540.0 || 664.0 || 603.0 || 1
+label: 502.0 || 700.0 || 551.0 || 742.0 || 1
+
+GROUND TRUTH FOR: 0257_test
+label: 131.0 || 194.0 || 183.0 || 282.0 || 1
+label: 133.0 || 570.0 || 188.0 || 647.0 || 1
+
+GROUND TRUTH FOR: 0284_test
+label: 569.0 || 577.0 || 618.0 || 646.0 || 1
+
+GROUND TRUTH FOR: 0272_test
+label: 607.0 || 632.0 || 678.0 || 754.0 || 1
+
+GROUND TRUTH FOR: 0095_test
+label: 205.0 || 447.0 || 412.0 || 516.0 || 0
+
+GROUND TRUTH FOR: 0015_test
+label: 388.0 || 315.0 || 760.0 || 437.0 || 0
+
+GROUND TRUTH FOR: 0151_test
+label: 513.0 || 405.0 || 572.0 || 468.0 || 2
+
+GROUND TRUTH FOR: 0292_test
+label: 167.0 || 428.0 || 224.0 || 536.0 || 1
+label: 600.0 || 394.0 || 651.0 || 484.0 || 1
+
+GROUND TRUTH FOR: 0242_test
+label: 106.0 || 170.0 || 166.0 || 432.0 || 1
+
+GROUND TRUTH FOR: 0190_test
+label: 578.0 || 544.0 || 654.0 || 621.0 || 2
+PREDICTIONS: 
+1 label: dirty score: tensor(0.7539) 213.8645 || 203.54117 || 241.2803 || 235.53535
+
+GROUND TRUTH FOR: 0195_test
+label: 589.0 || 370.0 || 647.0 || 427.0 || 2
+
+GROUND TRUTH FOR: 0217_test
+label: 592.0 || 313.0 || 646.0 || 378.0 || 1
+
+GROUND TRUTH FOR: 0359_test
+label: 492.0 || 148.0 || 636.0 || 203.0 || 3
+
+GROUND TRUTH FOR: 0025_test
+label: 242.0 || 558.0 || 507.0 || 635.0 || 0
+
+GROUND TRUTH FOR: 0355_test
+label: 460.0 || 251.0 || 566.0 || 305.0 || 3
+
+GROUND TRUTH FOR: 0193_test
+label: 552.0 || 413.0 || 610.0 || 468.0 || 2
+
+GROUND TRUTH FOR: 0346_test
+label: 473.0 || 379.0 || 650.0 || 429.0 || 3
+
+GROUND TRUTH FOR: 0246_test
+label: 644.0 || 708.0 || 703.0 || 773.0 || 1
+
+GROUND TRUTH FOR: 0303_test
+label: 170.0 || 360.0 || 260.0 || 463.0 || 3
+
+GROUND TRUTH FOR: 0367_test
+label: 356.0 || 359.0 || 467.0 || 385.0 || 3
+
+GROUND TRUTH FOR: 0081_test
+label: 170.0 || 121.0 || 229.0 || 285.0 || 0
+
+GROUND TRUTH FOR: 0356_test
+label: 388.0 || 431.0 || 626.0 || 499.0 || 3
+
+GROUND TRUTH FOR: 0096_test
+label: 442.0 || 179.0 || 634.0 || 285.0 || 0
+
+GROUND TRUTH FOR: 0310_test
+label: 279.0 || 287.0 || 348.0 || 361.0 || 3
+
+GROUND TRUTH FOR: 0238_test
+label: 536.0 || 628.0 || 652.0 || 751.0 || 1
+
+GROUND TRUTH FOR: 0186_test
+label: 528.0 || 622.0 || 599.0 || 682.0 || 2
+PREDICTIONS: 
+1 label: dirty score: tensor(0.7492) 199.23677 || 231.64487 || 222.73642 || 256.7972
+
+GROUND TRUTH FOR: 0156_test
+label: 394.0 || 591.0 || 456.0 || 653.0 || 2
