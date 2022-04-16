@@ -9,7 +9,7 @@ our dataset have upload to Baidu NetDisk
 
 The link: https://pan.baidu.com/s/1ZNxA81lRXqSQYSmUVUKLtQ 
 
-extraction code:\emph{vmhe}  .
+extraction code: vmhe .
 > in this dataset, there are two type of images, one is the template image, which named as xxxx_temp.jpg, and the other is the defect images, which named as xxxx_test.jpg. The structure of directory is based on the VOC structure.
 
 ## predict step
